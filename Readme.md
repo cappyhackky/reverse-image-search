@@ -15,8 +15,8 @@ Generates a CSV report with remarks on:
 
 ## 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/face-verification-report.git
-   cd face-verification-report
+   git clone https://github.com/cappyhackky/reverse-image-search.git
+   cd reverse-image-search
  ```  
 ## 2. Setup the Application
 
